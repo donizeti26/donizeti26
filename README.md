@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Olá. Eu sou Donizeti, um desenvolvedor **FrontEnd**, atualmente tenho uma página no <a href="https://www.instagram.com/por_donizet/"></a> com essa tematica.
+Olá. Eu sou Donizeti, um desenvolvedor **FrontEnd**, atualmente tenho uma página no <a href="https://www.instagram.com/por_donizet/">Instagram</a> com essa tematica.
 Deixei incompleto o curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano, Campus Guanambi
 
 
