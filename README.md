@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+Olá. Eu sou Donizeti, um desenvolvedor **FrontEnd**, atualmente tenho uma página no <a href="https://www.instagram.com/por_donizet/"><img src="https://img.shields.io/static/v1?label=Blog&message=Instagram&color=E4405F&style=for-the-badge&logo=Instagram"/></a> com essa tematica.
+Deixei incompleto o curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano, Campus Guanambi
+
+
 <!--
 **donizeti26/donizeti26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
