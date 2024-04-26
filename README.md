@@ -2,16 +2,13 @@
   src="https://raw.githubusercontent.com/donizeti26/donizeti26/47cb20c5b420f6dbe07f5edbd44548c8fbb340f7/card.svg"/>
 
 
-Olá! Bem vindo!
-
-
 <p>Olá ser humano, que bom te ver por aqui...</p>
 
 <p>Resumindo minha bio: Um programador com o vscode e um sonho...</p>
 
 #
 
-Como disse Sócrates: 
+Seguindo o pensamento de Sócrates: 
  
 > "A cada linha de código percebo que nem sei o que sei..."
 
