@@ -7,23 +7,12 @@
 <p>Resumindo minha bio: Um programador com o vscode e um sonho...</p>
 
 #
-
-Seguindo o pensamento de Sócrates: 
- 
-> "A cada linha de código percebo que nem sei o que sei..."
+Estou em busca de uma oportunidade de carreira no mundo dev.; Buscando de forma didática conhecimentos que serão a base solida de uma carreira.
 
 #
-Pontos <strong>IMPORTANTES</strong> a relevar sobre os meus repositórios:
-
-+  "Se você encontrar um bug em meu código, considere-o uma característica extra gratuita!"
-
-+  "Às vezes, funciona; outras vezes, bem..."
-
-+  "Se você acha que entendeu o que eu fiz, é sinal de que eu fiz algo errado!"
+Ponto <strong>IMPORTANTE</strong> a relevar sobre os meus repositórios:
 
 + "Se o código parece estranho, é só porque estou testando sua capacidade de interpretação criativa."
-
-+  "Se meu código parece uma selva densa, é porque estou explorando novas fronteiras da programação!"
 
 ## Skills técnicas 
 
@@ -37,7 +26,7 @@ Pontos <strong>IMPORTANTES</strong> a relevar sobre os meus repositórios:
 
 #
 
-<p>  Para entrar em contato é aqui  :point_down: </p>
+<p>  Entre em contato por aqui: :point_down: </p>
 
 <a href="www.linkedin.com/in/donizeti-silva-a666b31b0" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
