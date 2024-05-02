@@ -7,6 +7,8 @@
 <p>Olá ser humano, que bom te ver por aqui...</p>
 <p>Hello human being, how nice to see you here...</p>
 
+<p>Estamos em construção</p>
+<p>We are under construction</p> 
 
 #
 Atualmente sou CLT é quero fazer uma migração de carreira, quero exercer algum carga na area de desenvolvimento, seja full stack ou frontend, logo, estou em busca de uma oportunidade de carreira no mundo dev.;
@@ -15,7 +17,7 @@ No meu GitHub você vai encontrar muito conteúdo didático, que foram e são me
 I am currently CLT is want to make a career migration, I want to exercise some load in the development area, whether full stack or frontend, so I am looking for a career opportunity in the dev world. ;. On my GitHub you will find a lot of didactic content, which were and are my studies to achieve my Dream.
 #
 
-Ponto <strong>IMPORTANTE</strong> a relevar sobre os meus repositórios:
+Ponto <strong>IMPORTANTE</strong> a relevar sobre os meus repositórios: <br>
 Point <Strong>IMPORTANT</Strong> to read about my repositories:
 
 
