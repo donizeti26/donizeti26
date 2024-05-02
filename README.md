@@ -1,8 +1,8 @@
+<img align="top" height="500em" margin="0" padding="0"
+  src="https://raw.githubusercontent.com/donizeti26/donizeti26/main/flyer.svg"/>
+
 <img align="right" height="590em"
   src="https://raw.githubusercontent.com/donizeti26/donizeti26/47cb20c5b420f6dbe07f5edbd44548c8fbb340f7/card.svg"/>
-<img align="top" height="100%"
-  src="https://raw.githubusercontent.com/donizeti26/donizeti26/47cb20c5b420f6dbe07f5edbd44548c8fbb340f7/flyer.svg"/>
-
 
 <p>Olá ser humano, que bom te ver por aqui...</p>
 <p>Hello human being, how nice to see you here...</p>
