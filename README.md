@@ -1,7 +1,7 @@
-<img align="top" height="500em" margin="0" padding="0"
+<img align="center"     width="100%"
   src="https://raw.githubusercontent.com/donizeti26/donizeti26/main/flyer.svg"/>
 
-<img align="right" height="590em"
+<img align="right" height="590em" right="20px"
   src="https://raw.githubusercontent.com/donizeti26/donizeti26/47cb20c5b420f6dbe07f5edbd44548c8fbb340f7/card.svg"/>
 
 <p>Olá ser humano, que bom te ver por aqui...</p>
